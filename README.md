@@ -1,2 +1,2 @@
 # Logos
-Open source kiosk software made perfect
+This Is Our Logos Repoistory for FOSSKiosk
